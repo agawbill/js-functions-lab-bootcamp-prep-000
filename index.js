@@ -4,7 +4,7 @@ function happyHolidays() {
 
 
 function happyHolidaysTo(name) {
-  return `Happy holidays, ${name}!'
+  return 'Happy holidays, ${name}!'
 }
  
 
@@ -14,6 +14,6 @@ function happyHolidaysTo(name, holiday) {
 }
  
 function happyHolidayCountdown(days, holiday) {
-  return `${days}, ${holiday}''
+  return '${days}, ${holiday}''
 }
 
